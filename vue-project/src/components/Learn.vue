@@ -20,7 +20,7 @@ export default defineComponent({
     const questions = [
       {
         question: "Which band released the album 'Dark Side of the Moon'?",
-        explanation: "Pink Floyd released this album in 1973, becoming one of the best-selling albums of all time."
+        explanation: "Pink Floyd released their 'Dark Side of the Moon' album in 1973, becoming one of the best-selling albums of all time."
       },
       {
         question: "Who is the lead singer of Led Zeppelin?",

@@ -42,8 +42,8 @@
           {
             question: "Which band released the album 'Dark Side of the Moon'?",
             answers: [
-              { text: 'Pink Floyd', correct: true },
               { text: 'The Beatles', correct: false },
+              { text: 'Pink Floyd', correct: true },
               { text: 'Led Zeppelin', correct: false },
               { text: 'The Rolling Stones', correct: false }
             ]
@@ -51,19 +51,19 @@
           {
             question: 'Who is the lead singer of Led Zeppelin?',
             answers: [
-              { text: 'Robert Plant', correct: true },
               { text: 'Roger Daltrey', correct: false },
               { text: 'Mick Jagger', correct: false },
+              { text: 'Robert Plant', correct: true },
               { text: 'Ozzy Osbourne', correct: false }
             ]
           },
           {
             question: 'Which song is by Queen?',
             answers: [
-              { text: 'Bohemian Rhapsody', correct: true },
               { text: 'Hotel California', correct: false },
               { text: 'Sweet Home Alabama', correct: false },
-              { text: 'Hey Jude', correct: false }
+              { text: 'Hey Jude', correct: false },
+              { text: 'Bohemian Rhapsody', correct: true },
             ]
           }
         ]
